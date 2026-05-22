@@ -109,6 +109,10 @@ from_01_mece:
 5. 假设验证 → 设计MVP实验
 6. 人本洞察 → 重构HMW问题
 
+## 📄 许可证
+
+本项目采用 [Apache License 2.0](LICENSE) 开源许可证。
+
 ---
 
 <div align="center">

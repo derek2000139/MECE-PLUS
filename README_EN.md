@@ -109,6 +109,10 @@ from_01_mece:
 5. Hypothesis Validation → Design MVP experiments
 6. Human-centered Insights → Reframe HMW questions
 
+## 📄 License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
 ---
 
 <div align="center">
